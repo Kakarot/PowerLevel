@@ -7,7 +7,7 @@ class Solution
 {
     static void Main(string[] args)
     {
-        ZFighter Vegeta = new ZFighter("Vegeta", 9000); //You are instantiating the blue print
+        ZFighter Vegeta = new ZFighter("Kakarot", 6000); //You are instantiating the blue print
         // Vegeta.Name = "Vegeta";
         //Vegeta.PowerLevel = 9000;
         //Console.WriteLine(Vegeta.ToString());
